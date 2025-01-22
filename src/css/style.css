@@ -1061,19 +1061,16 @@ a.download-resume {
 }
 
 .whatsapp-contact-block {
-    color: #26d366;
     font-family: 'roboto-medium';
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    gap: 16px;
     z-index: 500;
 }
 
 .whatsapp-link {
+    display: flex;
+    align-items: center;
+    gap: 16px;
     color: aliceblue;
-    font-size: 30px;
+    font-size: 24px;
     line-height: 0;
     color: #26d366;
     transition: scale 300ms ease-in-out;
