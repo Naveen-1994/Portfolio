@@ -377,12 +377,14 @@ p {
 }
 
 .scrolling-text-block {
+    pointer-events: none;
     display: flex;
     gap: 30px;
     overflow: hidden;
 }
 
 .scroll-text {
+    pointer-events: none;
     margin: 0;
     font-size: calc(100vh / 5);
     line-height: calc(100vh / 4);
