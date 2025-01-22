@@ -43,7 +43,7 @@ const ContactForm = () => {
 
             >
                 {({ isSubmitting }) => (
-                    <Form ref={form}>
+                    <Form ref={form} name="contact" netlify>
                         <div className='name-block'>
                             <label htmlFor="name">Name:</label>
                             <Field type="text" id="name" name="user_name" placeholder="Enter your name" />
