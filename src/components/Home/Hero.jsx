@@ -16,7 +16,7 @@ const Hero = () => {
                     <FloatingWords />
                 </div>
                 <h3 className='tagline-message'>Transforming ideas into beautiful websites.</h3>
-                <a className='download-resume cta-button' href='https://drive.google.com/file/d/1zkl7a0Zh35Dj2VtFLHeX3t92vmLwbCuV/view?usp=sharing' download target='_blank' rel='noreferrer'>Resume
+                <a className='download-resume cta-button' href='https://drive.google.com/file/d/1RV_b5SOEZME7bY8Ao0ysALkIB5UheZ6C/view?usp=sharing' download target='_blank' rel='noreferrer'>Resume
                     <img src={sparkle} alt='sparkle' className='sparkle1' />
                     <img src={sparkle} alt='sparkle' className='sparkle2' />
                     <img src={sparkle} alt='sparkle' className='sparkle3' />
